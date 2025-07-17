@@ -1,0 +1,10 @@
+Flask
+transformers
+beautifulsoup4
+requests
+nltk
+langdetect
+python-dotenv
+xhtml2pdf
+PyPDF2
+sentencepiece
