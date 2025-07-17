@@ -86,18 +86,5 @@ flask run
 - Real-time translation previews
 - Cloud deployment for scalability
 
-## 🧑‍💻 Authors
 
-- **Vinitha Kurapati**  
-- **Manaswini Nimmakanti**  
-- **Pravalika Nagapuri**  
-Department of Computer Science & Engineering  
-Stanley College of Engineering and Technology for Women
 
-## 📃 License
-
-This project is for educational and research purposes only.
-
-## 📬 Contact
-
-For questions or collaborations, reach out via GitHub or LinkedIn (add links if you'd like).
